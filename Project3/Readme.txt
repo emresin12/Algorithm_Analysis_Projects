@@ -1,0 +1,1 @@
+In the zip file, there are 6 different python files. You can directly run the main.py. All the python files should be in the same directory. The output will be written to output.txt
